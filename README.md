@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @TWTom041 蔡昕翰
+- 👀 I’m interested in AI design
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me: tom0986820022@gmail.com
+- 🏫 I'm currently a student at HSNU, Taipei.
+
+<!---
+TWTom041/TWTom041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
