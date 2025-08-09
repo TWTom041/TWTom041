@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI design
 - 🌱 I’m learning machine learning
 - 📫 How to reach me: tom0986820022@gmail.com
-- 🏫 I'm currently a student at HSNU, Taipei.
+- 🏫 I'm currently a student at NTHU, Hsinchu.
 
 <!---
 TWTom041/TWTom041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
