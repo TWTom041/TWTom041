@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TWTom041 蔡昕翰
 - 👀 I’m interested in AI design
 - 🌱 I’m learning machine learning
-- 📫 How to reach me: tom0986820022@gmail.com
+- 📫 How to reach me: twtomtsai@gmail.com
 - 🏫 I'm currently a student at NTHU, Hsinchu.
 
 <!---
